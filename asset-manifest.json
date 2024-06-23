@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flipcart/static/css/main.b18a16a8.css",
+    "main.js": "/flipcart/static/js/main.f724168d.js",
+    "static/js/453.096b385e.chunk.js": "/flipcart/static/js/453.096b385e.chunk.js",
+    "index.html": "/flipcart/index.html",
+    "main.b18a16a8.css.map": "/flipcart/static/css/main.b18a16a8.css.map",
+    "main.f724168d.js.map": "/flipcart/static/js/main.f724168d.js.map",
+    "453.096b385e.chunk.js.map": "/flipcart/static/js/453.096b385e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18a16a8.css",
+    "static/js/main.f724168d.js"
+  ]
+}
